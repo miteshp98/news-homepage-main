@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ solution URL ](https://github.com/miteshp98/news-homepage-main)
+- Live Site URL: [ live site URL ](https://miteshp98.github.io/news-homepage-main/)
 
 ## My process
 
